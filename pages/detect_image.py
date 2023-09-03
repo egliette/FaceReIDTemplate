@@ -152,4 +152,4 @@ if st.button("Submit"):
                             caption = f"{labels[i]} {dists[i]}"
                             st.image(predicted_image, caption=caption, use_column_width=True)
     else:
-        st.error("Please upload an image.app")
+        st.error("Please upload an image.")
