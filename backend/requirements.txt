@@ -1,0 +1,8 @@
+annoy
+fastapi
+uvicorn
+deepface
+faiss-cpu
+retina-face
+ffmpeg-python
+python-multipart
