@@ -18,7 +18,7 @@ from fastapi import FastAPI, UploadFile, File, Form
 
 
 app = FastAPI()
-image_folder = "train/"
+image_folder = "faces/"
 filename_path = "paths.txt"
 model_name = "ArcFace"
 model = DeepFace.build_model(model_name=model_name)

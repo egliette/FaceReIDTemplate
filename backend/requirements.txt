@@ -5,4 +5,5 @@ deepface
 faiss-cpu
 retina-face
 ffmpeg-python
+python-dotenv
 python-multipart
