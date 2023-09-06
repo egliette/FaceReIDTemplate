@@ -1,2 +1,2 @@
-# ObjectDetectionTemplate
-Template Streamlit and Requests for Object Detection Projects
+# FaceReIDTemplate
+Template Streamlit and Requests for Face Re-Identification Projects
