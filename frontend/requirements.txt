@@ -1,0 +1,8 @@
+tqdm
+numpy
+pillow
+requests
+streamlit
+opencv-python
+ffmpeg-python
+python-multipart
