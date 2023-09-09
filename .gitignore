@@ -2,7 +2,7 @@ videos/
 images/
 backend/faces/
 paths.txt
-.index
+*.index
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
